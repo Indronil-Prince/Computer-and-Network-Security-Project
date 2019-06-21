@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1560876948 source:c:\users\indronil\desktop\pro\new folder\proj\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1035175203 c:\users\indronil\desktop\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
